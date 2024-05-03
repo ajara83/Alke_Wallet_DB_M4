@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.walletm4.entidades"},{"l":"com.walletm4.main"}];updateSearchResults();
